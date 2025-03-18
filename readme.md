@@ -1,4 +1,4 @@
-BlogSphere :rocket:
+Freaky-Frequencies :rocket:
 
 A modern blog platform with social features and robust content management. Built with TypeScript, Prisma, and PostgreSQL.
 
@@ -23,7 +23,7 @@ A modern blog platform with social features and robust content management. Built
 
 # Clone repository
 
-git clone https://github.com/yourusername/blogsphere.git
+git clone https://github.com/PrimeBeyonder/Freaky-Frequencies
 
 # Install dependencies
 
@@ -39,7 +39,7 @@ npx prisma migrate dev --name init
 
 == Configuration ==
 Configure your .env file:
-DATABASE_URL="postgresql://user:password@localhost:5432/blogsphere"
+DATABASE_URL="postgresql://user:password@localhost:5432/Freaky-Frequencies"
 NEXTAUTH_SECRET="your-secure-key"
 GITHUB_CLIENT_ID="your-github-id"
 GITHUB_CLIENT_SECRET="your-github-secret"
@@ -70,4 +70,4 @@ fetch('/api/posts')
 Distributed under the MIT License. See LICENSE for more information.
 
 == Summary ==
-BlogSphere is a full-stack blogging platform combining modern web technologies with social networking features. It offers secure authentication, real-time updates, and comprehensive content management tools with TypeScript, Prisma, and PostgreSQL at its core.
+Freaky-Frequencies is a full-stack blogging platform combining modern web technologies with social networking features. It offers secure authentication, real-time updates, and comprehensive content management tools with TypeScript, Prisma, and PostgreSQL at its core.
